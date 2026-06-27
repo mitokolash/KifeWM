@@ -1,0 +1,12 @@
+.{
+    .name = .kifewm,
+    .version = "0.16.0",
+    .dependencies = .{
+        .wayland = .{
+            .url = "https://codeberg.org/ifreund/zig-wayland/archive/main.tar.gz",
+            .hash = "wayland-0.7.0-dev-lQa1kjT8AQDBstL61Gy3WCMtGwVaMN1p6w5wGfdDvP15",
+        },
+    },
+    .paths = .{""},
+    .fingerprint = 0x44ff18c6f1afd082,
+}
